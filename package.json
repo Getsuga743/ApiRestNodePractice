@@ -1,0 +1,25 @@
+{
+  "name": "apirestnodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Getsuga743/ApiRestNodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Getsuga743/ApiRestNodePractice/issues"
+  },
+  "homepage": "https://github.com/Getsuga743/ApiRestNodePractice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.10.9",
+    "nodemon": "^2.0.5",
+    "uuid": "^8.3.1"
+  }
+}
